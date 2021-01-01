@@ -1,11 +1,71 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
+metafile = true
+
+[[files]]
+file = "mods/audio-output.toml"
+hash = "7799ae9d4ae8c513ac820a8ffb5fbd13c231d8e41b5a409e64863d996bf759f7"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "19e88fd2fe5f8411b8122294f6d603c7bb3af3c23abb1a8ec288f307715ba272"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "407dff72b1a36bf82e051cf82d3b03ad14345870fa51ff2f9bd5a8cc7ae24922"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "476a7538514a195683a8eecdca4e2cc2b7193bd000b3229a845ff872737acaaf"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
+metafile = true
+
+[[files]]
+file = "mods/optifabric.toml"
+hash = "4134e8e2cdffb37042b324f8b7772d6027da98fb772d7feac029b832d52d1a31"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "4e00fedd5469dba1ca13009dcceb375be0235df613c3e340af5b599212dc8bce"
+metafile = true
+
+[[files]]
+file = "mods/pling.toml"
+hash = "ff714edaf62735149face116f54dbd4005268e02f016b65082b208499f250a1d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "e9fb0dbac1c9b1c25e4d7a3ca437c1212c26abd27c78eb5ed68bd8629ea81e83"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "fb37c83160b7b42abc998680881dcfa616338baba033832ad422bff20453f8de"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "1576cc67d743f8a524467c890f1c2266adfe7927e525c96613886b598c3ecb32"
+hash = "17e2eb6c3261ba1bcfe2eab4012f2cc9e8769f88683b46a9974f5e90b901b95d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "291bc4d0b7d481e67c98262e03cf357e66706c7aa462c9c891fba2dd8e5d3148"
+hash = "3307f0332bf4b42fa42178a9cfee67ab381c961d7154bf09687e71bd9743eb0d"
 metafile = true

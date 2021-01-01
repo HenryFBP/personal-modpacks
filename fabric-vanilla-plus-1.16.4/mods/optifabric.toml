@@ -1,0 +1,14 @@
+name = "OptiFabric"
+filename = "optifabric-1.8.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3135/133/optifabric-1.8.13.jar"
+hash-format = "murmur2"
+hash = "3513334048"
+
+[update]
+[update.curseforge]
+file-id = 3135133
+project-id = 322385
+release-channel = "beta"

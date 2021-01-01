@@ -1,9 +1,9 @@
-name = "Fabric Vanilla Plus 1 . 16 . 4"
+name = "Fabric Vanilla Plus 1.16.4"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b274fe654bdb9090b71b68e1cdfdd2faa6c2efe3d5f8900e3366348cfb1b9e31"
+hash = "9ef8ff845c6357ae7a09398eb2eaac57a532fc2c5e707d1d36b035ae0d1a86a2"
 
 [versions]
 fabric = "0.10.8"
