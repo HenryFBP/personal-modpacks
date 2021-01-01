@@ -2,7 +2,7 @@
 
 ## Caveats
 
-- You cannot have Fabric auto-installed with MultiMC. See <https://fabricmc.net/wiki/install#multimc>.
+- You cannot have Fabric auto-installed with MultiMC. See <https://fabricmc.net/wiki/install#multimc>. Basically `Edit Instance > Install Fabric`.
 
 ## Building
 
