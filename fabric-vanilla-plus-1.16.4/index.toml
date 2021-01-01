@@ -1,0 +1,11 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "1576cc67d743f8a524467c890f1c2266adfe7927e525c96613886b598c3ecb32"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "291bc4d0b7d481e67c98262e03cf357e66706c7aa462c9c891fba2dd8e5d3148"
+metafile = true

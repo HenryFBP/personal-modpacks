@@ -1,0 +1,14 @@
+name = "Xaero's Minimap"
+filename = "Xaeros_Minimap_20.30.1_Forge_1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3153/531/Xaeros_Minimap_20.30.1_Forge_1.16.4.jar"
+hash-format = "murmur2"
+hash = "3781076399"
+
+[update]
+[update.curseforge]
+file-id = 3153531
+project-id = 263420
+release-channel = "beta"
